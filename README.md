@@ -1,4 +1,4 @@
-# API da aplicação Dev Radar
+# Cliente mobile da aplicação Dev Radar
 
 Aplicação desenvolvida durante a 10 ª semana OmniStack da @Rocketseat.
 
@@ -18,4 +18,4 @@ Adicione a url do banco de dados no arquivo index.js na linha 13  dentro da past
 
 #### Execução:
 
-`yarn dev ou npm run dev`
+`yarn dev ou npm start`
