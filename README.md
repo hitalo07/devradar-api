@@ -8,8 +8,8 @@ Instruções para execução do projeto:
 
 #### Instalação
 
-yarn ou npm install
+`yarn ou npm install`
 
 #### Execução:
 
-yarn dev ou npm run dev
+`yarn dev ou npm run dev`
