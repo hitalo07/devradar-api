@@ -6,9 +6,15 @@ A aplicação foi em Node.js com Express utilizando MongoDB para armazenamento d
 
 Instruções para execução do projeto:
 
-#### Instalação
+#### Instalação:
 
 `yarn ou npm install`
+
+#### Configuração:
+
+Adicione a url do banco de dados no arquivo index.js na linha 13  dentro da pasta /src.
+
+`devradar-api/src/index.js`
 
 #### Execução:
 
